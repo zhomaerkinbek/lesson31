@@ -19,8 +19,6 @@ import static java.util.Comparator.*;
 public class Main {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = 1;
         // это для домашки
         // выберите любое количество заказов, какое вам нравится.
         //var orders = RestaurantOrders.read("orders_1000.json").getOrders();
